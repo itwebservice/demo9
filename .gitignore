@@ -1,0 +1,6 @@
+# exclude everything
+uploads/*
+crm/
+
+# exception to the rule
+!uploads/.gitkeep 
