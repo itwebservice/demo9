@@ -29,7 +29,7 @@ $date1 = str_replace('-', '/', $date);
                     <div class="landing-slider-details">
                         <h2 class="landing-slider-title animated fadeInDown">Where Do You Want To Go?</h2>
                         <p class="landing-slider-discription animated fadeInUp">Experience the various exciting tour and travel packages and Make hotel reservations, find vacation packages, search cheap hotels and events<br class="d-none d-lg-block"> find vacation packages, search cheap hotels and events</p>
-                        <a href="#" class="btn landing-slider-btn animated fadeInUp">Read More</a>
+                        <a href="view/tours/tours-listing.php" class="btn landing-slider-btn animated fadeInUp">Read More</a>
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@ $date1 = str_replace('-', '/', $date);
                     <div class="landing-slider-details">
                         <h2 class="landing-slider-title animated zoomIn">We Make Awesome Tour</h2>
                         <p class="landing-slider-discription animated zoomIn">Find Best deals for Tour Packages, Hotels, Holidays, Flights world wide. <br class="d-none d-lg-block"> Visit these top destinations.</p>
-                        <a href="#" class="btn landing-slider-btn animated zoomIn">Contact Us</a>
+                        <a href="contact.php" class="btn landing-slider-btn animated zoomIn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ $date1 = str_replace('-', '/', $date);
                     <div class="landing-slider-details">
                         <h2 class="landing-slider-title animated fadeInLeft">Find Your Tour Today</h2>
                         <p class="landing-slider-discription animated fadeInLeft">Explore popular domestic & international destinations with our company.</p>
-                        <a href="#" class="btn btn-info landing-slider-btn animated fadeInLeft">Find a tour</a>
+                        <a href="view/tours/tours-listing.php" class="btn btn-info landing-slider-btn animated fadeInLeft">Find a tour</a>
                     </div>
                 </div>
             </div>
@@ -74,22 +74,22 @@ $date1 = str_replace('-', '/', $date);
                     <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                         <div class="services-item">
                             <div class="service-item-img">
-                                <i class="fa-solid fa-train"></i>
+                                <i class="fa-solid fa-address-card"></i>
                             </div>
                             <div class="services-item-body">
-                                <h5 class="service-item-name card-title">Rail Booking</h5>
-                                <p class="services-item-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
+                                <h5 class="service-item-name card-title">Visa</h5>
+                                <p class="services-item-discription card-discription">Visa is a part of our complete suite of travel solutions apart from air ticketing and Forex services.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                         <div class="services-item">
                             <div class="service-item-img">
-                                <i class="fa-solid fa-bed"></i>
+                                <i class="fa-solid fa-passport"></i>
                             </div>
                             <div class="services-item-body">
-                                <h5 class="service-item-name card-title">HOTEL BOOKING</h5>
-                                <p class="services-item-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
+                                <h5 class="service-item-name card-title">Passport</h5>
+                                <p class="services-item-discription card-discription">Our team of extremely efficient and experienced of professionals to handle all the requisite visa services.</p>
                             </div>
                         </div>
                     </div>
@@ -99,41 +99,41 @@ $date1 = str_replace('-', '/', $date);
                                 <i class="fa-solid fa-plane"></i>
                             </div>
                             <div class="services-item-body">
-                                <h5 class="service-item-name card-title">FLIGHT BOOKING</h5>
-                                <p class="services-item-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
+                                <h5 class="service-item-name card-title">Mice</h5>
+                                <p class="services-item-discription card-discription">We value the concept of MICE tours i.e. Meetings,Incentive tours,Conferences & Exibitions to motivate employees.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                         <div class="services-item">
                             <div class="service-item-img services-img-rotate">
-                                <i class="fa-solid fa-ticket"></i>
+                                <i class="fa-solid fa-notes-medical"></i>
                             </div>
                             <div class="services-item-body">
-                                <h5 class="service-item-name card-title">TICKET BOOKING</h5>
-                                <p class="services-item-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
+                                <h5 class="service-item-name card-title">Insurance</h5>
+                                <p class="services-item-discription card-discription">Whether you travel for business or pleasure, travel involves risk. We provide the travel insurance services.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                         <div class="services-item">
                             <div class="service-item-img">
-                                <i class="fa-solid fa-ship"></i>
+                                <i class="fa-solid fa-sim-card"></i>
                             </div>
                             <div class="services-item-body">
-                                <h5 class="service-item-name card-title">CRUISES BOOKING</h5>
-                                <p class="services-item-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
+                                <h5 class="service-item-name card-title">Sim Card</h5>
+                                <p class="services-item-discription card-discription">Local SIM card is most important while traveling abroad for communicate from overseas.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                         <div class="services-item">
                             <div class="service-item-img">
-                                <i class="fa-solid fa-house-chimney"></i>
+                                <i class="fa-solid fa-wallet"></i>
                             </div>
                             <div class="services-item-body">
-                                <h5 class="service-item-name card-title">AMAZING TOUR</h5>
-                                <p class="services-item-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
+                                <h5 class="service-item-name card-title">Forex Assistance</h5>
+                                <p class="services-item-discription card-discription">Local country wise currencies are required to handle expenses paid joy.<br> And we guide you.</p>
                             </div>
                         </div>
                     </div>
@@ -171,19 +171,10 @@ $date1 = str_replace('-', '/', $date);
                                     <h5 class="package-card-title card-title">Australia</h5>
                                     <p class="package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                                     <div class="package-card-footer">
-                                        <div class="package-card-review">
-                                            <span class="package-review-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </span>
-                                            <span class="package-review-rating"> - 100 review</span>
-                                        </div>
                                         <div class="package-card-price">
                                             <h5 class="mb-0">$1400</h5>
                                         </div>
+                                        <h5>(Per Person)</h5>
                                     </div>
                                 </div>
                             </a>
@@ -204,19 +195,10 @@ $date1 = str_replace('-', '/', $date);
                                     <h5 class="package-card-title card-title">France</h5>
                                     <p class="package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                                     <div class="package-card-footer">
-                                        <div class="package-card-review">
-                                            <span class="package-review-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star-half-stroke"></i>
-                                            </span>
-                                            <span class="package-review-rating"> - 190 review</span>
-                                        </div>
                                         <div class="package-card-price">
                                             <h5 class="mb-0">$1500</h5>
                                         </div>
+                                        <h5>(Per Person)</h5>
                                     </div>
                                 </div>
                             </a>
@@ -237,19 +219,10 @@ $date1 = str_replace('-', '/', $date);
                                     <h5 class="package-card-title card-title">Germany</h5>
                                     <p class="package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                                     <div class="package-card-footer">
-                                        <div class="package-card-review">
-                                            <span class="package-review-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-regular fa-star"></i>
-                                            </span>
-                                            <span class="package-review-rating"> - 120 review</span>
-                                        </div>
                                         <div class="package-card-price">
                                             <h5 class="mb-0">$1300</h5>
                                         </div>
+                                        <h5>(Per Person)</h5>
                                     </div>
                                 </div>
                             </a>
@@ -270,19 +243,10 @@ $date1 = str_replace('-', '/', $date);
                                     <h5 class="package-card-title card-title">Lorem Ipsum</h5>
                                     <p class="package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                                     <div class="package-card-footer">
-                                        <div class="package-card-review">
-                                            <span class="package-review-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                            </span>
-                                            <span class="package-review-rating"> - 90 review</span>
-                                        </div>
                                         <div class="package-card-price">
                                             <h5 class="mb-0">$1200</h5>
                                         </div>
+                                        <h5>(Per Person)</h5>
                                     </div>
                                 </div>
                             </a>
@@ -303,19 +267,10 @@ $date1 = str_replace('-', '/', $date);
                                     <h5 class="package-card-title card-title">Lorem Ipsum</h5>
                                     <p class="package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                                     <div class="package-card-footer">
-                                        <div class="package-card-review">
-                                            <span class="package-review-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star-half-stroke"></i>
-                                            </span>
-                                            <span class="package-review-rating"> - 160 review</span>
-                                        </div>
                                         <div class="package-card-price">
                                             <h5 class="mb-0">$1500</h5>
                                         </div>
+                                        <h5>(Per Person)</h5>
                                     </div>
                                 </div>
                             </a>
@@ -336,19 +291,10 @@ $date1 = str_replace('-', '/', $date);
                                     <h5 class="package-card-title card-title">Lorem Ipsum</h5>
                                     <p class="package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                                     <div class="package-card-footer">
-                                        <div class="package-card-review">
-                                            <span class="package-review-star">
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-solid fa-star"></i>
-                                                <i class="fa-regular fa-star"></i>
-                                            </span>
-                                            <span class="package-review-rating"> - 90 review</span>
-                                        </div>
                                         <div class="package-card-price">
                                             <h5 class="mb-0">$1800</h5>
                                         </div>
+                                        <h5>(Per Person)</h5>
                                     </div>
                                 </div>
                             </a>
@@ -366,7 +312,7 @@ $date1 = str_replace('-', '/', $date);
     <div class="home-container container">
         <div class="promotinal-content">
             <div class="services-heading section-heading">
-                <h2 class="services-main-title section-title">Hot Deals</h2>
+                <h2 class="services-main-title section-title">Popular Group Tour</h2>
                 <div class="services-heading-img section-title-style text-center">
                     <img src="images/service_title_style.png" alt="" class="img-fluid">
                 </div>
@@ -467,7 +413,7 @@ $date1 = str_replace('-', '/', $date);
     <div class="home-container container">
         <div class="discount-content">
             <div class="services-heading section-heading">
-                <h2 class="services-main-title section-title">Deals and Discounts</h2>
+                <h2 class="services-main-title section-title">Popular Hotels</h2>
                 <div class="services-heading-img section-title-style text-center">
                     <img src="images/service_title_style.png" alt="" class="img-fluid">
                 </div>
@@ -487,15 +433,6 @@ $date1 = str_replace('-', '/', $date);
                         <p class="discount-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                         <div class="discount-card-footer package-card-footer">
                             <a href="#" class="discount-card-more">View Details <i class="fa-solid fa-right-long"></i></a>
-                            <div class="discount-card-review package-card-review">
-                                <span class="package-review-star">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star-half-stroke"></i>
-                                </span>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -512,15 +449,6 @@ $date1 = str_replace('-', '/', $date);
                         <p class="discount-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                         <div class="discount-card-footer package-card-footer">
                             <a href="#" class="discount-card-more">View Details <i class="fa-solid fa-right-long"></i></a>
-                            <div class="discount-card-review package-card-review">
-                                <span class="package-review-star">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star-half-stroke"></i>
-                                </span>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -537,15 +465,6 @@ $date1 = str_replace('-', '/', $date);
                         <p class="discount-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                         <div class="discount-card-footer package-card-footer">
                             <a href="#" class="discount-card-more">View Details <i class="fa-solid fa-right-long"></i></a>
-                            <div class="discount-card-review package-card-review">
-                                <span class="package-review-star">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star-half-stroke"></i>
-                                </span>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -562,15 +481,6 @@ $date1 = str_replace('-', '/', $date);
                         <p class="discount-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
                         <div class="discount-card-footer package-card-footer">
                             <a href="#" class="discount-card-more">View Details <i class="fa-solid fa-right-long"></i></a>
-                            <div class="discount-card-review package-card-review">
-                                <span class="package-review-star">
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star"></i>
-                                    <i class="fa-solid fa-star-half-stroke"></i>
-                                </span>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -622,11 +532,11 @@ $date1 = str_replace('-', '/', $date);
                 <div class="col col-12 col-md-3 col-lg-3 col-xl-3">
                     <div class="counter-item">
                         <div class="counter-img">
-                            <i class="fa-solid fa-ship"></i>
+                            <i class="fa-solid fa-diamond"></i>
                         </div>
                         <div class="counter-item-body">
                             <h4 class="counter-item-title promotional-card-title">178</h4>
-                            <p class="counter-item-name">Cruises</p>
+                            <p class="counter-item-name">Packages</p>
                         </div>
                     </div>
                 </div>
@@ -647,31 +557,11 @@ $date1 = str_replace('-', '/', $date);
         </div>
     </div>
     <div class="gallery-content">
-
-        <ul class="gallery-filter-menu">
-            <li data-target="all" class="gallery-filter-menu-link active">
-                All
-            </li>
-            <li data-target="tours" class="gallery-filter-menu-link">
-                tours
-            </li>
-            <li data-target="flights" class="gallery-filter-menu-link">
-                flights
-            </li>
-            <li data-target="cruises" class="gallery-filter-menu-link">
-                cruises
-            </li>
-            <li data-target="hotels" class="gallery-filter-menu-link">
-                hotels
-            </li>
-        </ul>
-
         <ul class="gallery-filter-list">
             <li data-item="tours" class="gallery-filter-item">
                 <img src="images/gallery_1.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -680,7 +570,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_2.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -689,7 +578,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_3.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -698,7 +586,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_4.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -707,7 +594,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_5.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -716,7 +602,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_6.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -725,7 +610,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_7.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -734,7 +618,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_8.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -743,7 +626,6 @@ $date1 = str_replace('-', '/', $date);
                 <img src="images/gallery_9.jpg" alt="" class="img-fluid">
                 <div class="promotional-card-overlay">
                     <div class="promotional-card-overlay-inner">
-                        <h4 class="gallery-filter-title promotional-card-title">Gallery Title</h4>
                         <a href="#" class="btn gallery-filter-camera promotion-card-btn landing-slider-btn"><i class="fa-solid fa-camera"></i></a>
                     </div>
                 </div>
@@ -778,18 +660,6 @@ $date1 = str_replace('-', '/', $date);
                                 <div class="recent-card-calendar package-card-price">
                                     <h5 class="mb-0"><i class="fa-regular fa-calendar-days"></i> 14 March 2016</h5>
                                 </div>
-                                <div class="recent-crad-comment">
-                                    <a href="#"><i class="fa-regular fa-comment"></i> 12</a>
-                                </div>
-                                <div class="recent-card-review package-card-review">
-                                    <span class="recent-review-star package-review-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star-half-stroke"></i>
-                                    </span>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -807,18 +677,6 @@ $date1 = str_replace('-', '/', $date);
                                 <div class="recent-card-calendar package-card-price">
                                     <h5 class="mb-0"><i class="fa-regular fa-calendar-days"></i> 14 March 2016</h5>
                                 </div>
-                                <div class="recent-crad-comment">
-                                    <a href="#"><i class="fa-regular fa-comment"></i> 12</a>
-                                </div>
-                                <div class="recent-card-review package-card-review">
-                                    <span class="recent-review-star package-review-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star-half-stroke"></i>
-                                    </span>
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -835,105 +693,6 @@ $date1 = str_replace('-', '/', $date);
                             <div class="recent-card-footer package-card-footer">
                                 <div class="recent-card-calendar package-card-price">
                                     <h5 class="mb-0"><i class="fa-regular fa-calendar-days"></i> 14 March 2016</h5>
-                                </div>
-                                <div class="recent-crad-comment">
-                                    <a href="#"><i class="fa-regular fa-comment"></i> 12</a>
-                                </div>
-                                <div class="recent-card-review package-card-review">
-                                    <span class="recent-review-star package-review-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star-half-stroke"></i>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
-                    <div class="recent-card Packages-card">
-                        <div class="recent-card-img package-card-img">
-                            <img src="images/post_4.jpg" alt="" class="img-fluid">
-                            <a href="#" class="recent-card-link package-card-duraction"><i class="fa-solid fa-link"></i></a>
-                        </div>
-                        <div class="recent-card-body package-card-body">
-                            <h5 class="recent-card-title package-card-title card-title">LOREM IPSUM DOLOR SIT AMET</h5>
-                            <p class="recent-card-discription package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
-                            <div class="recent-card-footer package-card-footer">
-                                <div class="recent-card-calendar package-card-price">
-                                    <h5 class="mb-0"><i class="fa-regular fa-calendar-days"></i> 14 March 2016</h5>
-                                </div>
-                                <div class="recent-crad-comment">
-                                    <a href="#"><i class="fa-regular fa-comment"></i> 12</a>
-                                </div>
-                                <div class="recent-card-review package-card-review">
-                                    <span class="recent-review-star package-review-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star-half-stroke"></i>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
-                    <div class="recent-card Packages-card">
-                        <div class="recent-card-img package-card-img">
-                            <img src="images/post_5.jpg" alt="" class="img-fluid">
-                            <a href="#" class="recent-card-link package-card-duraction"><i class="fa-solid fa-link"></i></a>
-                        </div>
-                        <div class="recent-card-body package-card-body">
-                            <h5 class="recent-card-title package-card-title card-title">LOREM IPSUM DOLOR SIT AMET</h5>
-                            <p class="recent-card-discription package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
-                            <div class="recent-card-footer package-card-footer">
-                                <div class="recent-card-calendar package-card-price">
-                                    <h5 class="mb-0"><i class="fa-regular fa-calendar-days"></i> 14 March 2016</h5>
-                                </div>
-                                <div class="recent-crad-comment">
-                                    <a href="#"><i class="fa-regular fa-comment"></i> 12</a>
-                                </div>
-                                <div class="recent-card-review package-card-review">
-                                    <span class="recent-review-star package-review-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star-half-stroke"></i>
-                                    </span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
-                    <div class="recent-card Packages-card">
-                        <div class="recent-card-img package-card-img">
-                            <img src="images/post_6.jpg" alt="" class="img-fluid">
-                            <a href="#" class="recent-card-link package-card-duraction"><i class="fa-solid fa-link"></i></a>
-                        </div>
-                        <div class="recent-card-body package-card-body">
-                            <h5 class="recent-card-title package-card-title card-title">LOREM IPSUM DOLOR SIT AMET</h5>
-                            <p class="recent-card-discription package-card-discription card-discription">Lorem Ipsum is simply dummy text of the printing and typeseatting industry. Lorem Ipsum has been the industry's</p>
-                            <div class="recent-card-footer package-card-footer">
-                                <div class="recent-card-calendar package-card-price">
-                                    <h5 class="mb-0"><i class="fa-regular fa-calendar-days"></i> 14 March 2016</h5>
-                                </div>
-                                <div class="recent-crad-comment">
-                                    <a href="#"><i class="fa-regular fa-comment"></i> 12</a>
-                                </div>
-                                <div class="recent-card-review package-card-review">
-                                    <span class="recent-review-star package-review-star">
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star"></i>
-                                        <i class="fa-solid fa-star-half-stroke"></i>
-                                    </span>
                                 </div>
                             </div>
                         </div>
